@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "DWH_supermarket_sales", "DWH_supermarket_sales\DWH_supermarket_sales.dtproj", "{3057139C-F193-4B06-9C81-C1A324E1DA81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3057139C-F193-4B06-9C81-C1A324E1DA81}.Development|Default.ActiveCfg = Development
+		{3057139C-F193-4B06-9C81-C1A324E1DA81}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF79163E-3BD9-4A6F-83AC-ADE0CC4CA50E}
+	EndGlobalSection
+EndGlobal
